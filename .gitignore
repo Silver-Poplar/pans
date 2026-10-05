@@ -19,3 +19,4 @@ bin-release/
 build
 bin
 lib
+.vscode/
